@@ -2,8 +2,7 @@
     "name": "auncly/sqlite-visualizer",
     "description": "Sqlite Database Visualizer",
     "keywords": [
-        "auncly",
-		""
+        "auncly"
     ],
     "homepage": "https://github.com/auncly/sqlite-visualizer",
     "license": "MIT",
@@ -17,7 +16,8 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/support": "^9.0"
+        "illuminate/support": "^9.0",
+        "laravel/framework": "^8.37|^9.0"
     },
     "require-dev": {
         "orchestra/testbench": "^6.0",
